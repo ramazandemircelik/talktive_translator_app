@@ -1,0 +1,15 @@
+<!-- Add these keys to your Info.plist file -->
+
+<!-- Microphone permission -->
+<key>NSMicrophoneUsageDescription</key>
+<string>This app needs access to your microphone for real-time voice translation.</string>
+
+<!-- Speech recognition permission -->
+<key>NSSpeechRecognitionUsageDescription</key>
+<string>This app needs access to speech recognition for voice translation.</string>
+
+<!-- Optional: Background audio -->
+<key>UIBackgroundModes</key>
+<array>
+    <string>audio</string>
+</array>
