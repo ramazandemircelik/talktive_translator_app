@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image 27 Kas 2025 01_08_48" src="https://github.com/user-attachments/assets/e80609e6-0620-4b73-8267-ae5258db756f" />
+
 # Real-Time Voice Translator 🌍🎤
 
 A production-ready Flutter mobile application for real-time, two-way voice translation between multiple languages.
